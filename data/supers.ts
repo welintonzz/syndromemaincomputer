@@ -3,7 +3,7 @@ import { Super, SuperResult } from '@/types'
 export const supers: Array<Super> = [
   { name: 'Universal Man', slug: 'universal-man', threatRating: 2.9, description: 'Atomic density manipulation', img: 'universal_man.png' },
   { name: 'Psycwave', slug: 'psycwave', threatRating: 6.6, description: 'Psychic foresight, thought control, telekinesis', img: 'yodavsdooka.png' },
-  { name: 'Everseer', slug: 'everseer', threatRating: 3.2, description: 'Telepathy, clairvoyance, magni-vision', img: 'everseer.png' },
+  { name: 'Everseer', slug: 'everseer', threatRating: 3.2, description: 'Telepathy, clairvoyance, magni-vision', img: 'obiua.png' },
   { name: 'Macroburst', slug: 'macroburst', threatRating: 5.9, description: 'High density force projection', img: 'macroburst.png' },
   { name: 'Phylange', slug: 'phylange', threatRating: 4.7, description: 'Sonic field projection', img: 'phylange.png' },
   { name: 'Blazestone', slug: 'blazestone', threatRating: 5.5, description: 'Pyrotechnic discharge, fire control', img: 'blazestone.png' },
