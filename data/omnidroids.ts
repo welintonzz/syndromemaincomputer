@@ -1,7 +1,7 @@
 import { Omnidroid } from '@/types'
 
 export const omnidroids: Array<Omnidroid> = [
-  { slug: 'X1', name: 'Omnidroid v.X1', description: 'Sith Lord, Majestic control of force, Powerful', img: 'teste.png' },
+  { slug: 'X1', name: 'Count Dooku', description: 'Sith Lord, Majestic control of force, Powerful', img: 'teste.png' },
   {
     slug: 'X2',
     name: 'Master Obi-Wan',
