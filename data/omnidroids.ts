@@ -1,7 +1,7 @@
 import { Omnidroid } from '@/types'
 
 export const omnidroids: Array<Omnidroid> = [
-  { slug: 'X1', name: 'Omnidroid v.X1', description: 'Threaded locomotion, sensory display, bi-articulated grappling claws', img: 'x1.png' },
+  { slug: 'X1', name: 'Omnidroid v.X1', description: 'Threaded locomotion, sensory display, bi-articulated grappling claws', img: 'teste.png' },
   {
     slug: 'X2',
     name: 'Omnidroid v.X2',
