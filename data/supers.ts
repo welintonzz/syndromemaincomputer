@@ -1,12 +1,12 @@
 import { Super, SuperResult } from '@/types'
 
 export const supers: Array<Super> = [
-  { name: 'Universal Man', slug: 'universal-man', threatRating: 2.9, description: 'Atomic density manipulation', img: 'universal_man.png' },
-  { name: 'Psycwave', slug: 'psycwave', threatRating: 6.6, description: 'Psychic foresight, thought control, telekinesis', img: 'yodavsdooka.png' },
-  { name: 'Everseer', slug: 'everseer', threatRating: 3.2, description: 'Telepathy, clairvoyance, magni-vision', img: 'obiua.png' },
-  { name: 'Macroburst', slug: 'macroburst', threatRating: 5.9, description: 'High density force projection', img: 'Macroburst.png' },
-  { name: 'Phylange', slug: 'phylange', threatRating: 4.7, description: 'Sonic field projection', img: 'phylange1.png' },
-  { name: 'Blazestone', slug: 'blazestone', threatRating: 5.5, description: 'Pyrotechnic discharge, fire control', img: 'blazestone1.png' },
+  { name: 'Young Anakin', slug: 'universal_man', threatRating: 5.0, description: 'Young Padawan, Great force control', img: 'universal_man.png' },
+  { name: 'Master Yoda', slug: 'psycwave', threatRating: 8.6, description: 'Super great force control, Battle IQ, IQ+ 900y', img: 'yodavsdooka.png' },
+  { name: 'Obi-Wan Kenobi', slug: 'everseer', threatRating: 6.2, description: 'Great force control, Battle IQ', img: 'obiua.png' },
+  { name: 'Master Anakin', slug: 'macroburst', threatRating: 7.9, description: 'Sith Apprentice, majestic control of force, lightsaber skill', img: 'Macroburst.png' },
+  { name: 'General Grievous', slug: 'phylange', threatRating: 5.7, description: 'skilled cyborg', img: 'phylange1.png' },
+  { name: 'Darth Vader', slug: 'blazestone', threatRating: 8.9, description: 'Sith Lord, majestic control of force, powerful', img: 'blazestone1.png' },
   { name: 'Dynaguy', slug: 'dynaguy', threatRating: 6.2, description: 'Flight, disintegration ray', img: 'dynaguy.png' },
   { name: 'Downburst', slug: 'downburst', threatRating: 6.5, description: 'Flight, gaseous expulsion', img: 'downburst.png' },
   { name: 'Hyper shock', slug: 'hyper-shock', threatRating: 7.5, description: 'Seismic wave generation', img: 'hyper_shock.png' },
