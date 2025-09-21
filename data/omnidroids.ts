@@ -6,7 +6,7 @@ export const omnidroids: Array<Omnidroid> = [
     slug: 'X2',
     name: 'Omnidroid v.X2',
     description: 'Bipedal locomotion, omni-directional sensory array, bi-articulated grappling claws',
-    img: 'x2.png',
+    img: 'obiwanprime.png',
   },
   {
     slug: 'X3',
