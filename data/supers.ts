@@ -3,7 +3,7 @@ import { Super, SuperResult } from '@/types'
 export const supers: Array<Super> = [
   { name: 'Young Anakin', slug: 'universal_man', threatRating: 5.0, description: 'Young Padawan, Great force control', img: 'universal_man.png' },
   { name: 'Master Yoda', slug: 'psycwave', threatRating: 8.6, description: 'Super great force control, Battle IQ, IQ+ 900y', img: 'yodavsdooka.png' },
-  { name: 'Obi-Wan Kenobi', slug: 'everseer', threatRating: 6.2, description: 'Great force control, Battle IQ', img: 'obiua.png' },
+  { name: 'ObiWan Kenobi', slug: 'everseer', threatRating: 6.2, description: 'Great force control, Battle IQ', img: 'obiua.png' },
   { name: 'Master Anakin', slug: 'macroburst', threatRating: 7.9, description: 'Sith Apprentice, majestic control of force, lightsaber skill', img: 'Macroburst.png' },
   { name: 'General Grievous', slug: 'phylange', threatRating: 5.7, description: 'skilled cyborg', img: 'phylange1.png' },
   { name: 'Darth Vader', slug: 'blazestone', threatRating: 8.9, description: 'Sith Lord, majestic control of force, powerful', img: 'blazestone1.png' },
