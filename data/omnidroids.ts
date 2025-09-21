@@ -1,11 +1,11 @@
 import { Omnidroid } from '@/types'
 
 export const omnidroids: Array<Omnidroid> = [
-  { slug: 'X1', name: 'Omnidroid v.X1', description: 'Threaded locomotion, sensory display, bi-articulated grappling claws', img: 'teste.png' },
+  { slug: 'X1', name: 'Count Dooku', description: 'Sith Lord, Majestic control of force, Powerful', img: 'teste.png' },
   {
     slug: 'X2',
-    name: 'Omnidroid v.X2',
-    description: 'Bipedal locomotion, omni-directional sensory array, bi-articulated grappling claws',
+    name: 'Master Obi-Wan',
+    description: 'Majestic control of force, Powerful, Defeater of the dark lords',
     img: 'obiwanprime.png',
   },
   {
